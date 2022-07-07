@@ -1,3 +1,3 @@
 # odin-recipes
 
-A recipe website project for the course known as The Odin Project.
+Recipe website project for the course The Odin Project.
